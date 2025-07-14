@@ -29,7 +29,10 @@ pincodes = {
     "424002": "Dhule",
     "424311": "Dhule",
     "424004": "Dhule",
-    "424005": "Dhule"
+    "424005": "Dhule",
+    "425401": "Dhule",   #Shirpur
+    "425421": "Dhule",   #Sakri
+    "425405": "Dhule"    #Shindkheda
 }
 
 districts = {
